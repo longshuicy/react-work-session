@@ -71,7 +71,17 @@ Set up break points, operate on the app and see the state.
 ![img](docs/stop-point1.png)
 
 ![img](docs/stop-point2.png)
+
 ### Start Developing
 
+#### Preparing for the hello-world tutorial. 
 
+We will try most of the material from https://reactjs.org/docs/hello-world.html.
+If you prefer develop locally on Webstorm, following the below steps:
+1. Clone this repository by `git clone https://github.com/longshuicy/react-work-session.git`
+2. Enter the /beginner/hello-world folder `cd beginner/hello-world`
+3. Installing dependency libraries by `npm install`
+4. Run `npm start` and you should see the basic layout in **http://localhost:3000**
 
+#### Agenda
+1. 
