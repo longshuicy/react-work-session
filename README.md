@@ -46,3 +46,32 @@ It allows developers to execute any Javascript Package available on the NPM regi
 NPX is installed automatically with NPM version 5.2.0 and above.*
 
 ### Set Development Environment
+If you get license for JetBrain through NCSA, you could use Webstorm https://www.jetbrains.com/webstorm/ which is the 
+preferred IDE. For convenience, this work session will use Webstorm as an example; but any text editor + command line should be enough 
+for basic development.
+![img](docs/JetBrains.png)
+
+- Open the `beginner` will load project into webstorm
+![img](docs/Webstorm1.png)  
+- In the terminal, type `npm start` will start the app
+![img](docs/Webstorm2.png)
+
+To set up **Debug mode**: 
+Add Configuration following the below screenshots:
+![img](docs/debug1.png)
+
+![img](docs/debug2.png)
+
+![img](docs/debug3.png)
+
+When `npm start` is running in the terminal, simultaneously start the debugger by clicking the **bug** ![img](docs/debug-icon.png) icon. 
+This will open a new tab. 
+
+Set up break points, operate on the app and see the state.
+![img](docs/stop-point1.png)
+
+![img](docs/stop-point2.png)
+### Start Developing
+
+
+
