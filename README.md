@@ -76,7 +76,8 @@ Set up break points, operate on the app and see the state.
 
 #### Preparing for the hello-world tutorial. 
 
-We will try most of the material from https://reactjs.org/docs/hello-world.html.
+We will try most of the material from https://reactjs.org/docs/hello-world.html and 
+https://upmostly.com/tutorials/react-hooks-simple-introduction
 If you prefer develop locally on Webstorm, following the below steps:
 1. Clone this repository by `git clone https://github.com/longshuicy/react-work-session.git`
 2. Enter the /beginner/hello-world folder `cd beginner/hello-world`
@@ -84,4 +85,11 @@ If you prefer develop locally on Webstorm, following the below steps:
 4. Run `npm start` and you should see the basic layout in **http://localhost:3000**
 
 #### Agenda
-1. 
+1. [What's JSX](https://reactjs.org/docs/introducing-jsx.html)
+2. [Components and props](https://reactjs.org/docs/components-and-props.html)
+3. [Introduction on state and lifecycles](https://reactjs.org/docs/state-and-lifecycle.html)
+   We will now try examples of class based component, instead I will just briefly explain the concept using this 
+   [code](https://codepen.io/gaearon/pen/vXdGmd?editors=0010) as example
+3. [Hooks](https://reactjs.org/docs/hooks-intro.html)
+4. [Using State Hook](https://upmostly.com/tutorials/react-hooks-simple-introduction#using-the-state-hook)
+5. [Using Effect Hook](https://upmostly.com/tutorials/react-hooks-simple-introduction#using-the-effect-hook)
