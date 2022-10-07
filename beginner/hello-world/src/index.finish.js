@@ -25,7 +25,14 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // const Welcome = () => {
 //     // return (element)
 //
-//     const [name, setName] = useState('World');
+//     const [name, setName] = useState(");
+
+    // const [name, setName] = useState("");
+    // const [disabled, setDisabled] = useState(true);
+    //
+    // useEffect(() => {
+    //     if (name !== "" && name !== "") setDisabled(false);
+    // }, [name]);
 //
 //     useEffect(() => {
 //         document.title = `Hello, ${name}`;
@@ -37,6 +44,10 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 //             <button onClick={() => setName('James')}>
 //                 Click me to change the name
 //             </button>
+
+                // <input value={name} onChange={(e) => setName(e.target.value)}
+                //        defaultValue="Please input your name here" />
+                // <button disabled={disabled}>Submit</button>
 //         </>
 //     )
 // }
