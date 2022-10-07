@@ -32,6 +32,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
     //
     // useEffect(() => {
     //     if (name !== "" && name !== "") setDisabled(false);
+    //     else setDisabled(true);
     // }, [name]);
 //
 //     useEffect(() => {
